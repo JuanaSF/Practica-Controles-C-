@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\bin\Debug\ColorDialog.exe.config
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\bin\Debug\ColorDialog.exe
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\bin\Debug\ColorDialog.pdb
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\obj\Debug\ColorDialog.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\obj\Debug\ColorDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\obj\Debug\ColorDialog.Form1.resources
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\obj\Debug\ColorDialog.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\obj\Debug\ColorDialog.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\obj\Debug\ColorDialog.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\obj\Debug\ColorDialog.exe
+C:\Users\MidasM2020\source\repos\Controles\ColorDialog\obj\Debug\ColorDialog.pdb

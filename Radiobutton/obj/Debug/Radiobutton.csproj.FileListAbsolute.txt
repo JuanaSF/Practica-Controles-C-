@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\bin\Debug\Radiobutton.exe.config
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\bin\Debug\Radiobutton.exe
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\bin\Debug\Radiobutton.pdb
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\obj\Debug\Radiobutton.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\obj\Debug\Radiobutton.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\obj\Debug\Radiobutton.Form1.resources
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\obj\Debug\Radiobutton.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\obj\Debug\Radiobutton.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\obj\Debug\Radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\obj\Debug\Radiobutton.exe
+C:\Users\MidasM2020\source\repos\Controles\Radiobutton\obj\Debug\Radiobutton.pdb

@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\bin\Debug\PictureBox.exe.config
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\bin\Debug\PictureBox.exe
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\bin\Debug\PictureBox.pdb
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\obj\Debug\PictureBox.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\obj\Debug\PictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\obj\Debug\PictureBox.Form1.resources
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\obj\Debug\PictureBox.exe
+C:\Users\MidasM2020\source\repos\Controles\PictureBox\obj\Debug\PictureBox.pdb

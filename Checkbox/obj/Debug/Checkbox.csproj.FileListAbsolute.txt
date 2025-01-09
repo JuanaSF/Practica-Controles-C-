@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\bin\Debug\Checkbox.exe.config
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\bin\Debug\Checkbox.exe
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\bin\Debug\Checkbox.pdb
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\obj\Debug\Checkbox.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\obj\Debug\Checkbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\obj\Debug\Checkbox.Form1.resources
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\obj\Debug\Checkbox.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\obj\Debug\Checkbox.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\obj\Debug\Checkbox.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\obj\Debug\Checkbox.exe
+C:\Users\MidasM2020\source\repos\Controles\Checkbox\obj\Debug\Checkbox.pdb

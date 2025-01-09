@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\bin\Debug\FolderBrowserDialog.exe.config
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\bin\Debug\FolderBrowserDialog.exe
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\bin\Debug\FolderBrowserDialog.pdb
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.Form1.resources
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.exe
+C:\Users\MidasM2020\source\repos\Controles\FolderBrowserDialog\obj\Debug\FolderBrowserDialog.pdb

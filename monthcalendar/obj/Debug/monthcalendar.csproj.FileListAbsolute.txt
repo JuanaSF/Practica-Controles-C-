@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\bin\Debug\monthcalendar.exe.config
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\bin\Debug\monthcalendar.exe
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\bin\Debug\monthcalendar.pdb
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\obj\Debug\monthcalendar.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\obj\Debug\monthcalendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\obj\Debug\monthcalendar.Form1.resources
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\obj\Debug\monthcalendar.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\obj\Debug\monthcalendar.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\obj\Debug\monthcalendar.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\obj\Debug\monthcalendar.exe
+C:\Users\MidasM2020\source\repos\Controles\monthcalendar\obj\Debug\monthcalendar.pdb

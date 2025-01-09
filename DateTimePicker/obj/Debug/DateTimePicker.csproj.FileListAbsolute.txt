@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\bin\Debug\DateTimePicker.exe.config
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\bin\Debug\DateTimePicker.exe
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\bin\Debug\DateTimePicker.pdb
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\obj\Debug\DateTimePicker.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\obj\Debug\DateTimePicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\obj\Debug\DateTimePicker.Form1.resources
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\obj\Debug\DateTimePicker.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\obj\Debug\DateTimePicker.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\obj\Debug\DateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\obj\Debug\DateTimePicker.exe
+C:\Users\MidasM2020\source\repos\Controles\DateTimePicker\obj\Debug\DateTimePicker.pdb
